@@ -1,0 +1,1 @@
+ /home/sheyla/Documents/Repositórios/flutter-webapi-first/.dart_tool/flutter_build/1828f4269693b4e4f62b2d77159f25b1/native_assets.yaml: 
