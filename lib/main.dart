@@ -1,10 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
+import 'package:flutter_webapi_first_course/services/journal_services.dart';
 import 'screens/home_screen/home_screen.dart';
 
 
-void main() {
+Future<void> main() async {
   runApp(const MyApp());
+  JournalService service = JournalService();
+  await service.register('teste');
+  service.get();
 }
 
 class MyApp extends StatelessWidget {
