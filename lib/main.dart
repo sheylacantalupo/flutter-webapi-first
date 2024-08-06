@@ -7,7 +7,7 @@ Future<void> main() async {
   runApp(const MyApp());
   JournalService service = JournalService();
   await service.register('teste');
-  service.get();
+  //service.get();
 }
 
 class MyApp extends StatelessWidget {

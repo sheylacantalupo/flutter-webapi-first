@@ -92,6 +92,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "logger",
+      "rootUri": "file:///home/sheyla/.pub-cache/hosted/pub.dev/logger-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "matcher",
       "rootUri": "file:///home/sheyla/.pub-cache/hosted/pub.dev/matcher-0.12.16",
       "packageUri": "lib/",
@@ -188,7 +194,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2024-08-01T00:04:00.465226Z",
+  "generated": "2024-08-06T23:33:46.691055Z",
   "generator": "pub",
   "generatorVersion": "3.2.5"
 }
